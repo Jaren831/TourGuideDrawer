@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_flights"
+            android:icon="@drawable/ic_flight_takeoff_black_24dp"
+            android:title="@string/category_flights" />
+        <item
+            android:id="@+id/nav_hotels"
+            android:icon="@drawable/hotel_icon"
+            android:title="@string/category_hotels" />
+        <item
+            android:id="@+id/nav_food"
+            android:icon="@drawable/ic_restaurant_black_24dp"
+            android:title="@string/category_food" />
+        <item
+            android:id="@+id/nav_attractions"
+            android:icon="@drawable/ic_local_activity_black_24dp"
+            android:title="@string/category_attractions" />
+    </group>
+
+</menu>

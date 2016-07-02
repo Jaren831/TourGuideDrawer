@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#3F51B5</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#303F9F</color>
+
+    <!-- Background color for the food category -->
+    <color name="category_flights">#7986CB</color>
+
+    <!-- Background color for the attractions members category -->
+    <color name="category_food">#7986CB</color>
+
+    <!-- Background color for the flights category -->
+    <color name="category_attractions">#7986CB</color>
+
+    <!-- Background color for the hotels category -->
+    <color name="category_hotels">#7986CB</color>
+</resources>

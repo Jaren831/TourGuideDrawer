@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TourGuideDrawer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Category name for hotels [CHAR LIMIT=20] -->
+    <string name="category_hotels">Hotels</string>
+
+    <!-- Category name for the vocabulary infos for flights [CHAR LIMIT=20] -->
+    <string name="category_flights">Flights</string>
+
+    <!-- Category name for the vocabulary infos for food [CHAR LIMIT=20] -->
+    <string name="category_food">Food</string>
+
+    <!-- Category name for the vocabulary infos for attractions members [CHAR LIMIT=20] -->
+    <string name="category_attractions">Attractions</string>
+
+    <string name="Instructions">Go the navigation drawer to select info on your trip to
+        San Francisco, CA!</string>
+
+</resources>
